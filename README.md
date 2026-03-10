@@ -1,11 +1,8 @@
-<h2>🎧 Podcast Episode</h2>
+## 🎧 Podcast Episode
 
-<p>Listen to the AI-generated podcast episode below:</p>
+Listen or download the podcast:
 
-<audio controls>
-  <source src="audio/echoframe_podcast_ep01.mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
+[▶️ Play the podcast](audio/echoframe_podcast_ep01.mp3)
 
 # EchoFrame Cast – AI Generated Podcast
 
