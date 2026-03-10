@@ -1,11 +1,8 @@
-<h2>🎧 Podcast Episode</h2>
+## 🎧 Podcast Episode
 
-<p>Listen to the AI-generated podcast episode below:</p>
+Listen or download the podcast audio:
 
-<audio controls>
-  <source src="audio/echoframe_podcast_ep01.mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
+[▶️ echoframe_podcast_ep01.mp3](audio/echoframe_podcast_ep01.mp3)
 # EchoFrame Cast – AI Generated Podcast
 
 This project was created as part of a challenge from the DIO platform focused on the use of Generative AI to create podcast content.
